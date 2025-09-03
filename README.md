@@ -1,4 +1,4 @@
-# 🎵 YouTube MP3 Downloader 1.0
+# 🎵 YouTube MP3 Downloader
 
 Un petit logiciel permettant de télécharger directement l’audio d’une vidéo YouTube en **MP3**, avec un système de **file d’attente** et une **barre de progression en temps réel**.  
 
