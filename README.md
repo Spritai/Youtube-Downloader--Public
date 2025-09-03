@@ -1,7 +1,4 @@
-# Youtube-Downloader-Mp3-Public
-
-
-# 🎵 YouTube MP3 Downloader (WinForms C#)
+# 🎵 YouTube MP3 Downloader 1.0
 
 Un petit logiciel permettant de télécharger directement l’audio d’une vidéo YouTube en **MP3**, avec un système de **file d’attente** et une **barre de progression en temps réel**.  
 
