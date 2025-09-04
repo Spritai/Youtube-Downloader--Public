@@ -15,4 +15,5 @@ Un petit logiciel permettant de télécharger directement une vidéo YouTube en 
 
 ---
 
-<img width="451" height="305" alt="image" src="https://github.com/user-attachments/assets/8a95b383-ff7b-4edb-a4f4-b803c5faf817" />
+<img width="450" height="342" alt="image" src="https://github.com/user-attachments/assets/88abbe1e-728d-4cd2-99a0-9b0f3893febc" />
+
